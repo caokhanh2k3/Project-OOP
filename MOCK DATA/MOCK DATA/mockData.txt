@@ -1,0 +1,33 @@
+||ID      |FULL NAME                |BIRTHDAY    |EMAIL ADDRESS                      |TELE NUMBER |GPA |HOME ADDRESS                                 
+====================================================================================================================================================================================
+||22151305|Ly Hoai Khanh            |18/10//2003 |LHKhanh@Twitter.com                |0363968945  |1.1 |209/158/118/22 CM Thang 8, Phuong 10, Quan 3, TP Ho Chi Minh               ||
+||22156543|Cao Minh My              |28/10//2004 |CMMy@Instagram.com                 |0914306879  |0.9 |169/53/154 Tran Hung Dao, Phuong 2, Quan 5, TP Ho Chi Minh                 ||
+||22150030|Ho Hoai Nhung            |05/03//2002 |HHNhung@Taobao.com                 |0369196301  |2.7 |50 Nguyen Tri Phuong, Phuong 9, Quan 10, TP Ho Chi Minh                    ||
+||22159496|Pham Ngoc My             |20/04//2004 |PNMy@yahoo.com                     |0709841008  |3.7 |86 Vuon Chuoi, Phuong 4, Quan 3, TP Ho Chi Minh                            ||
+||22159285|Bui Hong                 |18/12//2004 |BHong@Instagram.com                |0371516485  |0.5 |91/147/150 Tran Hung Dao, Phuong 6, Quan 5, TP Ho Chi Minh                 ||
+||22153552|Le Hoai My               |10/09//2004 |LHMy@clc.fitus.edu.vn              |0763820582  |3.4 |131/85/70/105 Rach Bung Binh, Phuong 10, Quan 3, TP Ho Chi Minh            ||
+||22157326|Nguyen Van Huy           |03/07//2004 |NVHuy@Instagram.com                |0331306166  |1.5 |45 Hoa Hao, Phuong 5, Quan 10, TP Ho Chi Minh                              ||
+||22152833|Bui Hoai Hong            |01/08//2004 |BHHong@yahoo.com                   |0789081368  |0.4 |205 Tran Binh Trong, Phuong 1, Quan 10, TP Ho Chi Minh                     ||
+||22159403|Vo Xuan Giao             |25/02//1900 |VXGiao@gmail.com                   |0357031009  |3.1 |99/217 Nguyen Van Dung, Phuong 6, Quan 5, TP Ho Chi Minh                   ||
+||22154777|Cao Minh Hong            |03/05//2004 |CMHong@TikTok.com                  |0847164229  |0.9 |133/142/128 Cau Kinh, Phuong 26, Quan Binh Thanh, TP Ho Chi Minh           ||
+||22150205|Ho Ngoc My               |05/10//2003 |HNMy@apple.com                     |0912241283  |2.5 |117/218/120 Dinh Tien Hoang, Phuong Da Kao, Quan 1, TP Ho Chi Minh         ||
+||22157811|Le Hoai Giao             |25/02//2004 |LHGiao@gmail.com                   |0897853543  |1.5 |37/145/88/209 Nghia Thuc, Phuong 5, Quan 5, TP Ho Chi Minh                 ||
+||22155331|Ngo Han                  |18/01//2004 |NHan@amazon.com                    |0332126545  |1.7 |112/106 Ly Chinh Thang, Phuong 9, Quan 3, TP Ho Chi Minh                   ||
+||22159874|Ly Xuan Giao             |03/07//2004 |LXGiao@Taobao.com                  |0940797088  |2   |145/58/74 Tran Quoc Thao, Phuong 9, Quan 3, TP Ho Chi Minh                 ||
+||22159853|Dao Phuong Han           |07/03//2004 |DPHan@gmail.com                    |0836106841  |0.8 |78/37/67/123 Hoang Hoa Tham, Phuong 6, Quan Binh Thanh, TP Ho Chi Minh     ||
+||22151643|Le Thi Thuy Khanh        |07/06//1967 |LTTKhanh@TikTok.com                |0946768150  |3.2 |197/191/22/216 Le Duan, Phuong Ben Nghe, Quan 1, TP Ho Chi Minh            ||
+||22152671|Nguyen Thi Thuy Nhung    |03/11//2004 |NTTNhung@clc.fitus.edu.vn          |0384822083  |0.9 |132 Nguyen Cu Trinh, Phuong Nguyen Cu Trinh, Quan 1, TP Ho Chi Minh        ||
+||22152863|Ngo Thi Hong Hong        |17/06//2004 |NTHHong@clc.fitus.edu.vn           |0964528345  |3.7 |179/41/90/97 Nguyen Trai, Phuong 7, Quan 5, TP Ho Chi Minh                 ||
+||22154393|Ngo Hoai Khanh           |10/10//2004 |NHKhanh@clc.fitus.edu.vn           |0788096495  |0.5 |13/16/82/105 Nguyen Cu Trinh, Phuong Nguyen Cu Trinh, Quan 1, TP Ho Chi Minh||
+||22150745|Bui Thi Hong Han         |22/04//2004 |BTHHan@amazon.com                  |0780292382  |0.9 |155/117/100/24 Ly Thai To, Phuong 2, Quan 3, TP Ho Chi Minh                ||
+||22151653|Dao Hoai Giao            |17/05//2004 |DHGiao@Twitter.com                 |0338018237  |2.9 |120 Nguyen Van Cu, Phuong 4, Quan 5, TP Ho Chi Minh                        ||
+||22152698|Vo Van Manh              |16/08//2003 |VVManh@Twitter.com                 |0899180688  |1.3 |11/146 Ly Chinh Thang, Phuong 9, Quan 3, TP Ho Chi Minh                    ||
+||22158855|Dinh Tam                 |19/06//2002 |DTam@clc.fitus.edu.vn              |0847566997  |3.8 |101/207/9/119 Le Duan, Phuong Ben Nghe, Quan 1, TP Ho Chi Minh             ||
+||22159638|Dinh Huu Han             |01/10//2004 |DHHan@Taobao.com                   |0324012126  |1.4 |133/181/52/215 Hoang Sa, Phuong 11, Quan 3, TP Ho Chi Minh                 ||
+||22150514|Pham Thi Nhung           |03/11//2003 |PTNhung@Twitter.com                |0356598123  |3.2 |17 Tran Hung Dao, Phuong 6, Quan 5, TP Ho Chi Minh                         ||
+||22159251|Ho Van Huy               |22/05//2002 |HVHuy@apple.com                    |0942495335  |3.8 |181/152/169 Cao Dat, Phuong 1, Quan 5, TP Ho Chi Minh                      ||
+||22153862|Ly Huu Giao              |29/12//2004 |LHGiao765@Twitter.com              |0864902482  |2.2 |186/193/55 Tran Quoc Thao, Phuong 9, Quan 3, TP Ho Chi Minh                ||
+||22151744|Cao Hoai Tam             |08/07//2002 |CHTam@Instagram.com                |0973236609  |0.8 |120/92/161/81 Vo Van Kiet, Phuong 1, Quan 5, TP Ho Chi Minh                ||
+||22158993|Ly Xuan Tam              |27/01//2004 |LXTam@Instagram.com                |0919906990  |2.9 |64/150/160 Ban Co, Phuong 3, Quan 3, TP Ho Chi Minh                        ||
+||22151203|Ngo Thi Thuy Khanh       |11/07//2004 |NTTKhanh@Twitter.com               |0368716098  |0.7 |103 Nguyen Van Dau, Phuong 7, Quan Binh Thanh, TP Ho Chi Minh              ||
+====================================================================================================================================================================================
