@@ -1,9 +1,1 @@
-Thi
-Van
-Ngoc
-Huu
-Hoai
-Minh
-Xuan
-Phuong
-NOMIDDLENAME
+a= hệ-số-tương-quan *độ-lệch-chuẩn-của-tọa-độ-cột-của-tất-cả-điểm-dữ-liệu / độ-lệch-chuẩn-của-tọa-độ-dòng-của-tất-cả-điểm-dữ-liệu 
